@@ -1,2 +1,2 @@
 # spring-crud
-Spring boot CRUD examples
+This project is about basic CRUD operations done using Springboot
